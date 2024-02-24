@@ -24,6 +24,6 @@ Python
 
 The Bot-TT project was created to automate systematic posting on twitter through a timer, so it can be used for various functions such as whenever a weekly table is updated you can use it to automatically post for you
 
-![alt text](Wpp.jpeg)
+![alt text](wpp.png)
 
 ---
